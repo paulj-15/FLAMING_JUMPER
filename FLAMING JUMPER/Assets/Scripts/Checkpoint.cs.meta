@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cb390db9f6da7364982e57b000447565
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redf: {fileID: 21300000, guid: 57ebd0abb865965468141fcbc2e543a9, type: 3}
+  - greenf: {fileID: 21300000, guid: dbf855ab1d48ae44c83d772da0691c5a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
